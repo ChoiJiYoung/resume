@@ -1,2 +1,7 @@
-# resume
-자기소개서
+# Choi JiYoung
+
+Name | Choi JiYoung
+------------ | -------------
+Major| Software
+Email | basketta13@gmail.com
+
