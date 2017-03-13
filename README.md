@@ -2,7 +2,7 @@
 ## 최지영 (CHOI JI YOUNG)
 ##### ~~간단한 자기소개서입니다.~~
 
-### Profile
+#### Profile
 
 * **Name** : Choi Ji Young
 
@@ -11,20 +11,18 @@
 * **Major** : Software
 
 ***
-## Educated
-1. [Gachon University][gachonlink]
-[gachonlink]: https://www.gachon.ac.kr "Go gachon" - Software department (2013)
+#### Educated
+1. Gachon University - Software department (2013)
 2. 졸업 예정 (2018)
 *****
-
-## Projects
-
+#### Projects
+*****
 - 졸업작품
 - 그 외 수업 시간에 진행했던 프로젝트
 - 차차 더 추가할 예정입니다.
-*****
 
-## Technical Experiences
+#### Technical Experiences
+- - -
 List of learning programming languages
 
 Language | Frameworks / Tools
@@ -32,6 +30,5 @@ Language | Frameworks / Tools
 C++,C#  | Visual Studio, Unity
 Java | Eclipse
 Android | Android Studio
----------------------------------------
 
 ### *Thank you!* :smile:
