@@ -1,6 +1,5 @@
-# Resume
+# Resume 
 ### Choi Ji Young
 - - -
-
  
 ***
